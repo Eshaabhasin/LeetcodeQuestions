@@ -1,2 +1,2 @@
 # LeetcodeQuestions
-Contains solution to leetcode questions
+Contains solution to leetcode questions in C++
