@@ -3,3 +3,4 @@ Contains solution to leetcode questions in C++
 
 ->Arrays
 ->Strings
+->Binary Search
