@@ -1,7 +1,7 @@
 # LeetcodeQuestions
-Contains solution to leetcode questions in C++
+This repository contains solutions to popular LeetCode problems in **C++**, organized by categories:
 
-->Arrays
-->Strings
-->Binary Search
-->Recursion
+- [Arrays](#arrays)
+- [Strings](#strings)
+- [Binary Search](#binary-search)
+- [Recursion](#recursion)
