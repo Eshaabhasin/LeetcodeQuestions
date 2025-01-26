@@ -1,4 +1,4 @@
-# LeetcodeQuestions
+# LeetcodeQuestions in C++
 
 - [Arrays](#arrays)
 - [Strings](#strings)
