@@ -5,3 +5,5 @@
 - [Binary Search](#binary-search)
 - [Recursion](#recursion)
 - [Linkedlist](#linkedlist)
+- [Trees](#trees)
+  
