@@ -7,4 +7,5 @@
 - [Linkedlist](#linkedlist)
 - [Trees](#trees)
 - [DP](#dp)
+- [Graphs](#graphs)
 
