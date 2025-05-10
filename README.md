@@ -6,6 +6,6 @@
 - [Recursion](#recursion)
 - [Linkedlist](#linkedlist)
 - [Trees](#trees)-Binary trees
-- [DP](#dp)-grids
+- [DP](#dp)-grids, subsequence 
 - [Graphs](#graphs)
 
