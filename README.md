@@ -8,5 +8,5 @@
 - [Trees](#trees)-Binary trees
 - [DP](#dp)-grids, subsequence,squares,strings
 - [Graphs](#graphs)
-- [BFS,DFS]
+- [BFS,DFS](#bfs,#dfs)
 
