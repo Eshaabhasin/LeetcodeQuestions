@@ -1,6 +1,6 @@
 # Leetcode Questions in C++
 # TOPICS
-- [Arrays](#arrays) -Sliding windows,2 pointer , sorting algo
+- [Arrays](#arrays) -Sliding windows, 2 pointer ,Sorting algo
 - [Strings](#strings)
 - [Binary Search](#binary-search)
 - [Recursion](#recursion)
